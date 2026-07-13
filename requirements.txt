@@ -13,8 +13,12 @@ qdrant-client==1.15.1
 
 sentence-transformers==3.0.1
 transformers==4.44.2
-torch
+torch==2.4.1
 
 python-dotenv==1.1.1
 pypdf==5.9.0
 requests==2.32.4
+
+mistralai==0.4.2
+SpeechRecognition==3.10.4
+pydub==0.25.1
